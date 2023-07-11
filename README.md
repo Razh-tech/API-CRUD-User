@@ -7,8 +7,3 @@ Use Data Model with in-Memory database provider (via NuGet: Microsoft.EntityFram
 - Create user
 - Update user
 - Delete user
-
-
-Created by : Radendy Bahtiar
-
-For : mHealthBank Technical Test
